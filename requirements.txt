@@ -1,0 +1,13 @@
+python>=3.9.0
+grpcio
+protobuf
+types-protobuf
+python-telegram-bot==13.14
+backtrader
+pandas
+
+
+
+
+
+
